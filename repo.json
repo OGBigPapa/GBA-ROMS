@@ -1,0 +1,164 @@
+
+{
+  "reponame":"AIO GBA",
+  "repologo":"https://ogbigpapa.github.io/GBARomsAIO/repo.png",
+  "repoauthor":"OGBigPapa",
+  "repodesc":"This repo contains about 90% of all games and it's updating every day!",
+  "categories":[
+    {
+      "categoryname":"Category Name",
+      "games":[
+        {
+          "name":"GT Advance 2 - Rally Racing",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/GT Advance 2 - Rally Racing.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/GT Advance 2 - Rally Racing (USA).png",
+          "system":"GBA"
+        },
+		{
+          "name":"GT Advance 3 - Pro Concept Racing",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/GT Advance 3 - Pro Concept Racing.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/GT Advance 3 - Pro Concept Racing (Europe).png",
+          "system":"GBA"
+        },
+		{
+          "name":"V-Rally 3",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/V-Rally 3.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/V-Rally 3 (Europe) (En,Fr,De,Es,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Need For Speed - Porsche Unleashed",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Need For Speed - Porsche Unleashed.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Need for Speed - Porsche Unleashed (Europe) (En,Fr,De,Es,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Need For Speed - Underground",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Need For Speed - Underground.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/53245front-45513.png",
+          "system":"GBA"
+        },
+		{
+          "name":"Need for Speed Underground 2",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Need for Speed Underground 2.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Need for Speed Most Wanted",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Need for Speed Most Wanted.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Need for Speed Carbon",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Need for Speed Carbon - Own the City.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Stuntman",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Stuntman.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/index.12.png",
+          "system":"GBA"
+        },
+		{
+          "name":"Grand Theft Auto Advance",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Grand Theft Auto Advance.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Grand Theft Auto Advance (USA).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Driv3r",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Driv3r.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Driv3r (Europe) (En,Fr,De,Es,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Lara Croft Tomb Raider - The Prophecy",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Lara Croft Tomb Raider - The Prophecy.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Lara Croft - Tomb Raider Legend",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Lara Croft - Tomb Raider Legend.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Tom Clancy's Splinter Cell",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Tom Clancy's Splinter Cell.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Tom Clancy's Splinter Cell (USA) (En,Fr,Es).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Tom Clancy's Splinter Cell - Pandora Tommorow",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Tom Clancy's Splinter Cell - Pandora Tommorow.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Resident Evil 2",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Resident-Evil-2-DEMO.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Resident-Evil-2-demo.png",
+          "system":"GBA"
+        },
+		{
+          "name":"Teenage Mutant Ninja Turtles 2 - Battle Nexus",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Teenage Mutant Ninja Turtles 2 - Battle Nexus.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Dead To Rights",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Dead To Rights.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/dead-to-rights-eu-gba.png",
+          "system":"GBA"
+        },
+		{
+          "name":"Batman Begins",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Batman Begins.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl).png",
+          "system":"GBA"
+        },
+		{
+          "name":"2 in 1 - Spider-Man & Spider-Man 2",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms2 in 1 Spider-Man & Spider-Man 2.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Spider-Man 2 (Europe) (En,Fr,De,Es).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Spider-Man 3",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Spider-Man 3.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Spider-Man 3 (USA).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Spider-Man - Battle For New York",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Spider-Man - Battle For New York.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Spider-Man - Battle for New York (USA).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Ultimate Spider-Man",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Ultimate Spider-Man.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Ultimate Spider-Man (Europe) (Fr,De,Es,It).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Madagascar - Operation Penguin",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Madagascar - Operation Penguin.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Madagascar - Operation Penguin (USA).png",
+          "system":"GBA"
+        },
+		{
+          "name":"Max Payne Advance",
+          "link":"https://ogbigpapa.github.io/GBARomsAIO/roms/Max Payne Advance.gba",
+          "boxart":"https://ogbigpapa.github.io/GBARomsAIO/art/Max Payne Advance (Europe) (En,Fr,De).png",
+          "system":"GBA"
+        }
+      ]
+    }
+  ]
+}
