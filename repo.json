@@ -10,49 +10,49 @@
       "games":[
         {
           "name":"GT Advance 2 - Rally Racing",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/GT Advance 2 - Rally Racing.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/GTAdvance2-RallyRacing.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/GT Advance 2 - Rally Racing (USA).png",
           "system":"GBA"
         },
 		{
           "name":"GT Advance 3 - Pro Concept Racing",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/GT Advance 3 - Pro Concept Racing.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/GTAdvance3-ProConceptRacing.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/GT Advance 3 - Pro Concept Racing (Europe).png",
           "system":"GBA"
         },
 		{
           "name":"V-Rally 3",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/V-Rally 3.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/V-Rally3.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/V-Rally 3 (Europe) (En,Fr,De,Es,It).png",
           "system":"GBA"
         },
 		{
           "name":"Need For Speed - Porsche Unleashed",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Need For Speed - Porsche Unleashed.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/NeedForSpeed-PorscheUnleashed.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Need for Speed - Porsche Unleashed (Europe) (En,Fr,De,Es,It).png",
           "system":"GBA"
         },
 		{
           "name":"Need For Speed - Underground",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Need For Speed - Underground.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/NeedForSpeed-Underground.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/53245front-45513.png",
           "system":"GBA"
         },
 		{
           "name":"Need for Speed Underground 2",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Need for Speed Underground 2.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/NeedforSpeedUnderground2.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It).png",
           "system":"GBA"
         },
 		{
           "name":"Need for Speed Most Wanted",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Need for Speed Most Wanted.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/NeedforSpeedMostWanted.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).png",
           "system":"GBA"
         },
 		{
           "name":"Need for Speed Carbon",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Need for Speed Carbon - Own the City.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/NeedforSpeedCarbon-OwntheCity.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It).png",
           "system":"GBA"
         },
@@ -64,7 +64,7 @@
         },
 		{
           "name":"Grand Theft Auto Advance",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Grand Theft Auto Advance.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/GrandTheftAutoAdvance.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Grand Theft Auto Advance (USA).png",
           "system":"GBA"
         },
@@ -76,25 +76,25 @@
         },
 		{
           "name":"Lara Croft Tomb Raider - The Prophecy",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Lara Croft Tomb Raider - The Prophecy.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/LaraCroftTombRaider-TheProphecy.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).png",
           "system":"GBA"
         },
 		{
           "name":"Lara Croft - Tomb Raider Legend",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Lara Croft - Tomb Raider Legend.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/LaraCroft-TombRaiderLegend.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It).png",
           "system":"GBA"
         },
 		{
           "name":"Tom Clancy's Splinter Cell",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Tom Clancy's Splinter Cell.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/TomClancy'sSplinterCell.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Tom Clancy's Splinter Cell (USA) (En,Fr,Es).png",
           "system":"GBA"
         },
 		{
           "name":"Tom Clancy's Splinter Cell - Pandora Tommorow",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Tom Clancy's Splinter Cell - Pandora Tommorow.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/TomClancy'sSplinterCell - Pandora Tommorow.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es).png",
           "system":"GBA"
         },
@@ -106,55 +106,55 @@
         },
 		{
           "name":"Teenage Mutant Ninja Turtles 2 - Battle Nexus",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Teenage Mutant Ninja Turtles 2 - Battle Nexus.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/TeenageMutantNinjaTurtles2 - Battle Nexus.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It).png",
           "system":"GBA"
         },
 		{
           "name":"Dead To Rights",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Dead To Rights.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/DeadToRights.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/dead-to-rights-eu-gba.png",
           "system":"GBA"
         },
 		{
           "name":"Batman Begins",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Batman Begins.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/BatmanBegins.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl).png",
           "system":"GBA"
         },
 		{
           "name":"2 in 1 - Spider-Man & Spider-Man 2",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms2 in 1 Spider-Man & Spider-Man 2.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/2in1Spider-Man&Spider-Man2.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Spider-Man 2 (Europe) (En,Fr,De,Es).png",
           "system":"GBA"
         },
 		{
           "name":"Spider-Man 3",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Spider-Man 3.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Spider-Man3.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Spider-Man 3 (USA).png",
           "system":"GBA"
         },
 		{
           "name":"Spider-Man - Battle For New York",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Spider-Man - Battle For New York.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Spider-Man-BattleForNewYork.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Spider-Man - Battle for New York (USA).png",
           "system":"GBA"
         },
 		{
           "name":"Ultimate Spider-Man",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Ultimate Spider-Man.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/UltimateSpider-Man.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Ultimate Spider-Man (Europe) (Fr,De,Es,It).png",
           "system":"GBA"
         },
 		{
           "name":"Madagascar - Operation Penguin",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Madagascar - Operation Penguin.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Madagascar-OperationPenguin.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Madagascar - Operation Penguin (USA).png",
           "system":"GBA"
         },
 		{
           "name":"Max Payne Advance",
-          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/Max Payne Advance.gba",
+          "link":"https://ogbigpapa.github.io/GBA-ROMS/roms/MaxPayneAdvance.gba",
           "boxart":"https://ogbigpapa.github.io/GBA-ROMS/art/Max Payne Advance (Europe) (En,Fr,De).png",
           "system":"GBA"
         }
